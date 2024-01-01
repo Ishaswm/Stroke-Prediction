@@ -14,9 +14,9 @@ https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## EDA
 
+<img width="459" alt="Screenshot 2024-01-01 232510" src="https://github.com/Ishaswm/Stroke-Prediction/assets/122556303/96ac048d-7d6d-459d-ad0f-14374d46210d">
 
 <img width="588" alt="Screenshot 2024-01-01 232627" src="https://github.com/Ishaswm/Stroke-Prediction/assets/122556303/8314e0e5-75ef-4429-ba25-82f5346f38ff">
-<img width="459" alt="Screenshot 2024-01-01 232510" src="https://github.com/Ishaswm/Stroke-Prediction/assets/122556303/96ac048d-7d6d-459d-ad0f-14374d46210d">
 
 ## MODEL
 1. **sklearn.model_selection** for performing cross-validation on a given model.
